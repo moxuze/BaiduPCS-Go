@@ -4,7 +4,7 @@ go 1.23
 
 require (
 	github.com/GeertJohan/go.incremental v1.0.0
-	github.com/dgrijalva/jwt-go v3.2.0+incompatible
+	github.com/moxuze/jwt-go v3.2.0+incompatible
 	github.com/fatih/color v1.18.0
 	github.com/golang/protobuf v1.5.4
 	github.com/json-iterator/go v1.1.12
